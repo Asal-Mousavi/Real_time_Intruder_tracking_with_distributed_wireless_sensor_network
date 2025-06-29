@@ -2,6 +2,8 @@
 
 An intelligent multi-agent simulation in Python where autonomous "thieves" attempt to reach a goal while evading detection by strategically placed sensors. This project explores advanced AI techniques in path planning, real-time visibility analysis, and constraint-based system validation.
 
+>🗓️ Created: May 2025 | 🎓 6th Semester, My Exploration of AI Pathfinding and Strategy
+
 ---
 
 ## Overview
